@@ -1,7 +1,23 @@
-/* ThatZoom  -- simple zooming routine with movable lens for loaded images
- * May 17 2020 
- * Author: Ingo Kieslich (keysling@gmail.com) 
- */
+/* ThatZoom -- simple zooming routine with movable lens for loaded images
+ * 
+ * 
+ * Copyright © 2020 Ingo Kieslich (keysling@gmail.com)
+ * 
+ * This file is part of "thatZoom".
+ * 
+ * "thatZoom" is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ * 
+ * "thatZoom" is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+ * GNU General Public License for more details.
+ * 
+ * You should have received a copy of the GNU General Public License
+ * along with "thatZoom".  If not, see <https://www.gnu.org/licenses/>.
+*/
 
 .thatZoom {
     position: relative;
